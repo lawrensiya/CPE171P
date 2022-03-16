@@ -1,3 +1,3 @@
 # CPE171P
 CPE171P -  Specialization Track
-Trial
+Trial and error
